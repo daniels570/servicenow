@@ -1,0 +1,12 @@
+{
+  "tickets": [
+    {
+      "consumer": 1,
+      "contact_type": "hello",
+      "consumer": 1,
+      "priority": "hello",
+      "short_description": 1,
+      "social_channel": "hello"
+    }
+  ]
+}
