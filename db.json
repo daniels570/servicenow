@@ -2,12 +2,16 @@
   "tickets": [
     {
       "id": 1,
-      "consumer": 1,
-      "contact_type": "hello",
-      "consumer": 1,
-      "priority": "hello",
-      "short_description": 1,
-      "social_channel": "hello"
+      "account": "IGA",
+      "active": "true",
+      "active_account_escalation": "sn_customerservice_escalation",
+      "active_escalation": "sn_customerservice_escalation",
+      "activity_due": "date-termination",
+      "approval": "approved",
+      "assigned_to": "sys_user",
+      "assignment_group": "sys_user_group",
+      "priority": 4,
+      "short_description": "date-termination"
     }
   ]
 }
